@@ -1,1 +1,1 @@
-# Retail-Sales-Data
+# Retail Sales Analytics ETL Pipeline using Azure Data Factory
